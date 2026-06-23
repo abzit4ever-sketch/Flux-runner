@@ -1,0 +1,12 @@
+{
+  "name": "play-to-earn-flux-runner-pvp-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "HTTP matchmaking and PvP state server for Play-to-Earn Flux Runner.",
+  "scripts": {
+    "start": "node pvp-server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Play-to-Earn Flux Runner</string>
+    <string name="pvp_server_url">http://127.0.0.1:8080</string>
+</resources>
