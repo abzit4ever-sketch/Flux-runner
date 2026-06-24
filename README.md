@@ -1,11 +1,6 @@
 Flux Runner
 ## Screenshots
 
-### Main-Menu
-
-
-![Game Main Menu](screenshots/main-menu.png)
-
 ### Gameplay
 
 ![Gameplays](screenshots/gameplay.png)
