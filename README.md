@@ -4,7 +4,7 @@ Flux Runner
 ### Player Profile Analysis
 
 
-![Player Profile Analysis](screenshots/fluxrunner-Menu.jpeg)
+![Player Profile Analysis](screenshots/main-menu.png)
 
 ### Team Profile & Squad Roster
 View complete team information including club details, coaching staff, and full squad roster with player positions.
