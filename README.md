@@ -4,11 +4,11 @@ Flux Runner
 ### Main-Menu
 
 
-![Player Profile Analysis](screenshots/main-menu.png)
+![Game Main Menu](screenshots/main-menu.png)
 
 ### Gameplay
 
-![Team Profile & Squad Roster](screenshots/gameplay.png)
+![Gameplays](screenshots/gameplay.png)
 
 
 A fast-paced hypercasual color-switching game. Roll, react, and shift your core's color on the fly to smash through matching barriers — one wrong move and it's game over. Simple to pick up, hard to put down, with coins to collect along the way and a satisfying rhythm of split-second decisions.
