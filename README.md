@@ -4,7 +4,7 @@ Flux Runner
 ### Player Profile Analysis
 Explore detailed player statistics with interactive tactical radar visualization showing key performance indicators.
 
-![Player Profile Analysis](screenshots/fluxrunner-menu.jpeg)
+![Player Profile Analysis](screenshots/fluxrunner-Menu.jpeg)
 
 ### Team Profile & Squad Roster
 View complete team information including club details, coaching staff, and full squad roster with player positions.
