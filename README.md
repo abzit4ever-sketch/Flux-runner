@@ -2,7 +2,7 @@ Flux Runner
 ## Screenshots
 
 ### Player Profile Analysis
-Explore detailed player statistics with interactive tactical radar visualization showing key performance indicators.
+
 
 ![Player Profile Analysis](screenshots/fluxrunner-Menu.jpeg)
 
